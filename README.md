@@ -2,7 +2,7 @@
 
 Feel free to explore my work and professional background through the links below:
 
-* **[View My Professional Resume](https://github.com/mohansaivenkat/CV-Resume/blob/main/Resume.pdf)**
+* **[View My Resume](https://github.com/mohansaivenkat/CV-Resume/blob/main/Resume.pdf)**
 * **[Explore My Portfolio](https://portfolio-mohan-sai-venkats-projects.vercel.app/)**
 <!--
 **mohansaivenkat/mohansaivenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
